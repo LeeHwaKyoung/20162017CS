@@ -4,13 +4,15 @@ https://youtu.be/3zGjoGU-Oxc
 기말 발표 영상 링크입니다. 감사합니다.
 
 
+<br>
+
 # 프로젝트 중간 보고
 https://youtu.be/VT9g21IyceI
 
 중간 발표 영상 링크입니다. 감사합니다.
 
-<br>
 
+<br>
 # Youth Is Now
  안녕하세요 2021년 1학기 소프트웨어공학 3분반 Youth Is Now조의 저장소입니다
 
