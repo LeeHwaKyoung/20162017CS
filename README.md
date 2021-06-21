@@ -1,3 +1,9 @@
+# 기말 발표 영상
+https://youtu.be/3zGjoGU-Oxc
+
+기말 발표 영상 링크입니다. 감사합니다.
+
+
 # 프로젝트 중간 보고
 https://youtu.be/VT9g21IyceI
 
